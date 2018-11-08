@@ -1,0 +1,7 @@
+javac SV.java
+javac SparseVector.java
+javac DoublyLinkedList.java
+javac Element.java
+javac List.java
+
+java SV

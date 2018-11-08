@@ -1,6 +1,6 @@
 /*
  * sparse-vector
- * hithub.com/01mu
+ * github.com/01mu
  */
 
 import java.util.*;
