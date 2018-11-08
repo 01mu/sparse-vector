@@ -38,8 +38,5 @@ dot
 ```
 ## Build
 ```
-javac SV.java
-javac SparseVector.java
-
-java SV
+./build
 ```
