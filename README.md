@@ -1,7 +1,7 @@
 # sparse-vector
 Addition, dot product, and subtraction of sparse vectors in Java.
 ## Usage
-Input (`input`)
+Input (`data/input`)
 ```
 3 1.0 2500 6.3 5000 10.0 60000 5.7
 1 7.5 3 5.7 2500 -6.3
@@ -15,7 +15,6 @@ subtract
 1 7.5 3 5.7 2500 -6.3
 dot
 ```
-## Output
 ```
 ( [3, 1.0] [2500, 6.3] [5000, 10.0] [60000, 5.7] )
 +
@@ -35,8 +34,4 @@ dot
 =
 33.99
 
-```
-## Build
-```
-./build
 ```
