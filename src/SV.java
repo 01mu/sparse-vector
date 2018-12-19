@@ -15,7 +15,7 @@ public class SV
         SparseVector sparseVectorTop = new SparseVector(null);
         SparseVector sparseVectorBottom = new SparseVector(null);
 
-        FileInputStream fstream = new FileInputStream("input");
+        FileInputStream fstream = new FileInputStream("../data/input");
         boolean topSet = false;
 
         Scanner input = new Scanner(fstream);
